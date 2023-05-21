@@ -13,7 +13,7 @@ Download this package.
 ```
 cd ~/catkin_ws/src
 wstool init
-wstool set --git ethz_piksi_ros https://github.com/ethz-asl/ethz_piksi_ros.git
+wstool set --git ethz_piksi_ros https://github.com/iralabdisco/ethz_piksi_ros.git
 wstool update
 ```
 
